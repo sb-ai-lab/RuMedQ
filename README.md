@@ -45,7 +45,7 @@ The dataset is distributed under a license [CC BY 4.0](https://creativecommons.o
         author = {Nesterov, Alexandr and Zubkova, Galina},
         month = {11},
         title = {{RuMedQ}},
-        url = {https://github.com/Rubank-ai-lab/RuMedQ},
+        url = {https://github.com/sb-ai-lab/RuMedQ},
         version = {1.0.0},
         year = {2021}
     }
@@ -101,7 +101,7 @@ Who are the annotators?
         author = {Nesterov, Alexandr and Zubkova, Galina},
         month = {11},
         title = {{RuMedQ}},
-        url = {https://github.com/Rubank-ai-lab/RuMedQ},
+        url = {https://github.com/sb-ai-lab/RuMedQ},
         version = {1.0.0},
         year = {2021}
     }
